@@ -1,0 +1,9 @@
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.csprojAssemblyReference.cache
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.AssemblyInfo.cs
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\GestionFinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\Gestionfinca.App.Dominio\bin\Debug\netstandard2.0\GestionFinca.App.Dominio.deps.json
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\Gestionfinca.App.Dominio\bin\Debug\netstandard2.0\GestionFinca.App.Dominio.dll
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\Gestionfinca.App.Dominio\bin\Debug\netstandard2.0\GestionFinca.App.Dominio.pdb
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\Gestionfinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.dll
+C:\ProyectosC#\GestionAgricola\GestionFinca.App\Gestionfinca.App.Dominio\obj\Debug\netstandard2.0\GestionFinca.App.Dominio.pdb
