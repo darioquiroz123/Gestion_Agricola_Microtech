@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace GestionFinca.App.FrontEnd
+namespace GestionFinca.App.Frontend
 {
     public class Startup
     {

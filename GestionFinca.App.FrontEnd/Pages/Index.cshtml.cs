@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace GestionFinca.App.FrontEnd.Pages
+namespace GestionFinca.App.Frontend.Pages
 {
     public class IndexModel : PageModel
     {
